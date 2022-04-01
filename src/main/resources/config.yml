@@ -1,0 +1,22 @@
+bigger_pickaxe:
+  block-list:
+    - STONE
+    - COAL_ORE
+    - IRON_ORE
+    - GOLD_ORE
+    - DIAMOND_ORE
+    - EMERALD_ORE
+  enchants-list:
+    - DIG_SPEED:3
+    - DURABILITY:5
+bigger_shovel:
+  block-list:
+    - DIRT
+    - SAND
+    - GRASS_BLOCK
+  enchants-list:
+    - DIG_SPEED:3
+    - DURABILITY:5
+bigger_hoe:
+  enchants-list:
+    - DURABILITY:5

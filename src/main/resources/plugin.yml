@@ -1,0 +1,10 @@
+name: CymerlineTools
+version: '${project.version}'
+main: fr.robotv2.cymerlinetools.CymerlineTools
+api-version: 1.18
+authors: [ Robotv2 ]
+description: A tools plugin for Cymerline
+commands:
+  tool:
+    description: Command to give / receive a tool.
+    usage: /<command>
